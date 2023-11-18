@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chaitanya-Shahare&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshil929&show_icons=true&locale=en&layout=compact" alt="darshil929" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshil929&show_icons=true&locale=en" alt="darshil929" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshil929&" alt="darshil929" /></p>
